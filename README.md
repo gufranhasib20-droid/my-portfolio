@@ -121,10 +121,11 @@ The navigation menu automatically changes to a mobile menu on smaller screens.
 
 ## 🔗 Connect With Me
 
+- **Portfolio:**[https://gufran-portfolio-0ln2.onrender.com/]
 - **GitHub:** [https://github.com/gufranhasib20-droid]
 - **LinkedIn:** [https://www.linkedin.com/in/gufranhasib/]
 - **Email:** [gufranhasib22@gmail.com]
-
+- **Portfolio:**[https://gufran-portfolio-0ln2.onrender.com/]
 ---
 
 ## 📄 Resume
