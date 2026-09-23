@@ -43,7 +43,7 @@ function Home() {
               View Projects
             </Link>
             <a
-            href="/Gufran_Hasib_Resume (2).pdf"
+            href="/Gufran_Hasib_Resume%20(4).pdf"
             download
             className="bg-green-600 hover:bg-green-700 px-6 py-3 rounded-lg font-semibold transition"
             >
